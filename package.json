@@ -18,7 +18,7 @@
     "jsdom": "^9.1.0",
     "mocha": "^3.0.2",
     "react-addons-test-utils": "^15.0.2",
-    "sinon": "^1.17.4",
+    "sinon": "^8.0.4",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.15.1"
   },
